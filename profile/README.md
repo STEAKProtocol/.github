@@ -5,4 +5,4 @@
 - Designed to serve as a reliable source of randomness, STEAK enables smart contracts on the Cardano blockchain to access verifiable, unpredictable random values.
 - Open source! Check out the [repo](https://github.com/STEAKProtocol/STEAKProtocol)!
 
-[See Whitepaper](https://steakprotocol.com/whitepaper.pdf)
+[See Whitepaper](https://raw.githubusercontent.com/steakprotocol/steakprotocol/main/whitepaper.pdf)
